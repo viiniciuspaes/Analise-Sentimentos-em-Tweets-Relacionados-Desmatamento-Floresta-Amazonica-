@@ -29,7 +29,8 @@ Esses agrupamentos foram utilizados para definir em quais per´ıodos seriam ger
 Termos sao considerados até duas palavras que aparecem frequentemente em conjunto. Um exemplo e o termo “impedir desmatamento”, o qual aparece como um dos termos mais frequentes em todos os períodos analisados. Para essa analise e criação das nuvens de palavras foram utilizadas as bibliotecas TextBlob [TextBlob 2021] para processar a frequencia dos termos dentro dos textos e wordcloud [WordCloud 2021] para gerar as nuvens de palavras, ambas bibliotecas Python. Com os graficos e as nuvens de palavras geradas, foi realizada uma pesquisa traçando paralelos entre os resultados demonstrados nos graficos com notçcias e acontecimentos reportados pela mídia. De forma a comprovar a relação entre o aumento da frequencia dos tweets e o aumento de emoções especificas com as notícias e os eventos. [Paes, Vinicius 2021]
 
 
-![alt text](https://github.com/viiniciuspaes/Analise-Sentimentos-em-Tweets-Relacionados-Desmatamento-Floresta-Amazonica-/blob/Main/frequencia_tweets_destacado_amarelo.jpg?raw=true)
+![alt text](https://github.com/viiniciuspaes/Analise-Sentimentos-em-Tweets-Relacionados-Desmatamento-Floresta-Amazonica-/blob/main/output/frequencia_tweets_destacado_amarelo.png?raw=true)
 
+![alt text](https://github.com/viiniciuspaes/Analise-Sentimentos-em-Tweets-Relacionados-Desmatamento-Floresta-Amazonica-/blob/main/output/sentiments_time_series.png?raw=true)
 
 Publicação em revisão. (Março 2022)
