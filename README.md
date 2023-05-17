@@ -33,4 +33,4 @@ Termos sao considerados até duas palavras que aparecem frequentemente em conjun
 
 ![alt text](https://github.com/viiniciuspaes/Analise-Sentimentos-em-Tweets-Relacionados-Desmatamento-Floresta-Amazonica-/blob/main/output/sentiments_time_series.png?raw=true)
 
-Publicação em revisão. (Março 2022)
+Publicação aprovada maio 2022 - https://sol.sbc.org.br/index.php/brasnam/article/view/20517
